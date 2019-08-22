@@ -1,0 +1,2 @@
+# BIPIN
+Through a classroom training at International School of Engineering ,I have gained good hands on and theoretical exposure to various concepts of machine learning and statistics  and also posses an Engineering Graduation which gives me confidence in programming.Collaboratively,I see to combine analytical ability,programming and data science knowledge to provide predictions to business cases.
